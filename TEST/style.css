@@ -1,0 +1,33 @@
+.back {
+    background: #F0ECF9;
+}
+
+
+
+.backi {
+    background: #F0ECF9;
+    border-bottom-right-radius: 125px;
+}
+
+.button {
+    background-color: #6F42C1 !important;
+}
+
+.my {
+    color: #6F42C1 !important;
+}
+
+.foot {
+    background: #F8F5FC !important;
+}
+
+a {
+    color: #6F42C1 !important;
+    text-decoration: none !important;
+}
+
+.custom-card {
+    background: #E2D9F3 !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
